@@ -1,4 +1,4 @@
-# Solution for tasks:
+# Solutions for tasks:
 
 ## ZADANIE 1. 
 
