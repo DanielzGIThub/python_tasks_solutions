@@ -1,4 +1,4 @@
-def postalcodes(cfrom = '79-900',cto = '80-155'):
+def postalcodes(cfrom = '79-900', cto = '80-155'):
     start = int(cfrom.replace('-',''))
     end = int(cto.replace('-',''))
     code = start
